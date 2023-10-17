@@ -1,0 +1,28 @@
+1. What is HTTP?
+    Hypertext Transfer Protocol
+
+2. What is URL?
+    Universal Resource Locator
+
+3. What is DNS?
+    Domain Name System
+
+4. What is a query string?
+    The search criteria at the end of the URL
+
+5. 2 HTTP verbs and what they do?
+    GET requests information from a server
+    POST changes information on a server
+
+6. What is a HTTP request?
+    When a GET is made you request info from server
+
+7. What is a HTTP response?
+    404(not found) and 200(found) are 2 common responses
+
+8. HTTP headers and examples?
+    Header provieds additional info about the request.
+    Host, User-Agent, Accept, Cookies are examples of info available in header.
+
+9. Process of a request?
+    A GET is made to the DNS which contacts the server, the server responds then renders the information.
